@@ -9,7 +9,7 @@
 
 ## Related Ticket
 
-> Link of jira ticket here
+> Link of jirra ticket here
 
 ### Code review
 
