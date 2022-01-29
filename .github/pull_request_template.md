@@ -9,7 +9,7 @@
 
 ## Related Ticket
 
-> Link of jira ticket here
+> Link of clickup ticket here
 
 ### Code review
 
